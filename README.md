@@ -1,4 +1,4 @@
 # MyFirstRepo
 This is my first repo
 <br>
-Author - Kedar Patel
+Author - Kedar Patel (CS Student)
